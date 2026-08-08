@@ -1,4 +1,4 @@
-# 🎯 Agent IA de candidature
+#  Agent IA de candidature
 
 Un agent qui lit une **offre d'emploi ou de thèse**, la compare à ton **CV**,
 **score la correspondance** et **rédige une lettre de motivation** personnalisée.
