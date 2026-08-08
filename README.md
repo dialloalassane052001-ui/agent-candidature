@@ -117,7 +117,6 @@ Agent_Candidature/
    ```
    GEMINI_API_KEY = "AIza...ta-clé..."
    ```
-4. Déploie : tu obtiens une URL publique (ex. `https://moussa-candidature.streamlit.app`)
-   que tu peux partager ou mettre sur ton CV / LinkedIn.
+4. Déploie : tu obtiens une URL publique 
 
 
