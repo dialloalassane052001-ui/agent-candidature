@@ -120,22 +120,4 @@ Agent_Candidature/
 4. Déploie : tu obtiens une URL publique (ex. `https://moussa-candidature.streamlit.app`)
    que tu peux partager ou mettre sur ton CV / LinkedIn.
 
-> ⚠️ **Ne mets jamais le fichier `.env` sur GitHub** (il est déjà dans `.gitignore`).
-> Sur Streamlit Cloud, la clé se configure dans *Secrets*, pas dans le code.
 
-**Sur le Play Store (Android) :** une app Streamlit est un **site web**, pas une
-application Android native. Le plus simple est de publier d'abord sur le web (ci-dessus),
-puis — plus tard, si tu veux — d'emballer l'URL dans une petite app Android (WebView)
-ou de refaire l'interface avec un framework mobile. C'est un projet à part entière ;
-commence par le web.
-
-## Idées d'améliorations (v2)
-
-- Adapter/réécrire le CV pour une offre donnée (pas seulement la lettre).
-- Générer plusieurs variantes de lettre (ton court / détaillé).
-- Détection automatique entreprise vs thèse pour choisir le bon CV.
-- Envoi assisté de l'e-mail de candidature (avec CV + lettre en pièce jointe).
-
-Déjà fait : export TXT/Word/PDF, extraction des infos de candidature (e-mail,
-contact, date limite), lecture des fiches structurées multi-sites, traitement
-par lot avec récapitulatif CSV.
